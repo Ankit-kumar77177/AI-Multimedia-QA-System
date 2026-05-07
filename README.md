@@ -59,3 +59,56 @@ AI-Multimedia-QA-System/
 │
 ├── docker-compose.yml
 └── README.md
+
+Installation
+Clone Repository
+git clone https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System.git
+cd AI-Multimedia-QA-System
+Backend Setup
+cd backend
+
+Create virtual environment:
+
+python -m venv venv
+
+Activate virtual environment:
+
+Windows
+venv\Scripts\activate
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run backend server:
+
+uvicorn app.main:app --reload
+
+Backend runs on:
+
+http://127.0.0.1:8000
+Frontend Setup
+
+Open new terminal:
+
+cd frontend
+
+Install dependencies:
+
+npm install
+
+Run frontend:
+
+npm run dev
+
+Frontend runs on:
+
+http://localhost:5173
+API Endpoints
+Method	Endpoint	Description
+POST	/upload	Upload multimedia files
+POST	/chat	Ask AI questions
+GET	/summary	Generate summary
+GET	/timestamps	Extract timestamps
+GET	/	Backend health check
+
