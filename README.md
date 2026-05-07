@@ -60,55 +60,94 @@ AI-Multimedia-QA-System/
 ├── docker-compose.yml
 └── README.md
 
-Installation
-Clone Repository
+# Installation
+
+## Clone Repository
+
+```bash
 git clone https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System.git
+```
+
+```bash
 cd AI-Multimedia-QA-System
-Backend Setup
+```
+
+---
+
+# Backend Setup
+
+```bash
 cd backend
+```
 
-Create virtual environment:
+## Create Virtual Environment
 
+```bash
 python -m venv venv
+```
 
-Activate virtual environment:
+## Activate Virtual Environment
 
-Windows
+### Windows
+
+```bash
 venv\Scripts\activate
+```
 
-Install dependencies:
+## Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-Run backend server:
+## Run Backend
 
+```bash
 uvicorn app.main:app --reload
+```
 
 Backend runs on:
 
+```bash
 http://127.0.0.1:8000
-Frontend Setup
+```
+
+---
+
+# Frontend Setup
 
 Open new terminal:
 
+```bash
 cd frontend
+```
 
-Install dependencies:
+## Install Dependencies
 
+```bash
 npm install
+```
 
-Run frontend:
+## Run Frontend
 
+```bash
 npm run dev
+```
 
 Frontend runs on:
 
+```bash
 http://localhost:5173
-API Endpoints
-Method	Endpoint	Description
-POST	/upload	Upload multimedia files
-POST	/chat	Ask AI questions
-GET	/summary	Generate summary
-GET	/timestamps	Extract timestamps
-GET	/	Backend health check
+```
 
+---
+
+# API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | /upload | Upload multimedia files |
+| POST | /chat | Ask AI questions |
+| GET | /summary | Generate summary |
+| GET | /timestamps | Extract timestamps |
+| GET | / | Backend health check |
