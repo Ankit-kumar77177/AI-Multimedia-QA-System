@@ -159,7 +159,7 @@ http://localhost:5173
 # FOR Frontend
 ![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20224542.png?raw=true)
 
-# FOR Video Uploding and get Summery By AI 
+# FOR Video Uploding and get Timestamp By AI 
 ![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20224324.png?raw=true)
 
 # FOR AI Chart
@@ -167,3 +167,6 @@ http://localhost:5173
 
 # FOR PDF Uploding and get Summery By AI
 ![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20223922.png?raw=true)
+
+# FOR Audio Uploding and get Timestamp By AI 
+![image alt]()
