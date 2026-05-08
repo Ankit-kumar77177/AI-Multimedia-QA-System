@@ -153,12 +153,17 @@ http://localhost:5173
 | GET | / | Backend health check |
 
 # OUTPUT IMAGES
-![image alt]()
+# FOR Backend
+![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20224441.png?raw=true)
 
-![image alt]()
+# FOR Frontend
+![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20224542.png?raw=true)
 
-![image alt]()
+# FOR Video Uploding and get Summery By AI 
+![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20224324.png?raw=true)
 
-![image alt]()
+# FOR AI Chart
+![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20223513.png?raw=true)
 
-![image alt]()
+# FOR PDF Uploding and get Summery By AI
+![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20223922.png?raw=true)
