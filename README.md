@@ -169,4 +169,4 @@ http://localhost:5173
 ![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20223922.png?raw=true)
 
 # FOR Audio Uploding and get Timestamp By AI 
-![image alt]()
+![image alt](https://github.com/Ankit-kumar77177/AI-Multimedia-QA-System/blob/main/Screenshot%202026-05-08%20233640.png?raw=true)
