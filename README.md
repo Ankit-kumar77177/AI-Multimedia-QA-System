@@ -151,3 +151,14 @@ http://localhost:5173
 | GET | /summary | Generate summary |
 | GET | /timestamps | Extract timestamps |
 | GET | / | Backend health check |
+
+# OUTPUT IMAGES
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
